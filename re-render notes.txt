@@ -1,0 +1,3 @@
+According to react profiler:
+- The Router seems to be the highest level component which is participating in the ongoing render loop
+- "why did this render" for the Router is "State Changed:Location"
